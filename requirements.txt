@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+numpy
+matplotlib
+pandas
+datasets
+regex
+accelerate>=0.26.0
+openpyxl
+sentencepiece
